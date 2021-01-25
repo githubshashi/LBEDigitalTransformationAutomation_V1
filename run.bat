@@ -1,0 +1,2 @@
+D:\Shashi\EclipsePractice\Workspace2\LBEDigitalTransformationAutomationV1
+mvn clean install

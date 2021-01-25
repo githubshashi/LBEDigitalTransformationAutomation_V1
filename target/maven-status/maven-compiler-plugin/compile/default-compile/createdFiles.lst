@@ -1,0 +1,11 @@
+digitaltransformation\Pages\MyAccountClassL.class
+digitaltransformation\Pages\MyAccountClassR.class
+digitaltransformation\Pages\MyAccountSignIn.class
+digitaltransformation\Utilities\ExcelReadWrite.class
+digitaltransformation\Pages\MyAccountHome.class
+digitaltransformation\Pages\MyAccountClassO.class
+digitaltransformation\Pages\MyAccountClassU.class
+digitaltransformation\Utilities\ReadConfig.class
+digitaltransformation\Pages\MyAccountProfile.class
+digitaltransformation\TestCases\BaseTest.class
+digitaltransformation\Utilities\BrowserFactory.class

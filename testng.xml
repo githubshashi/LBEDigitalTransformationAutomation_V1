@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+
+			<!--	<listeners>         -->
+			<!--		<listener class-name="digitaltransformation.Utilities.Reporting"/>       -->
+			<!--	</listeners>      -->
+	
+	 <parameter name="browser" value="chrome" /> 
+	 
+  <test name="Test"> 
+  
+			  <groups>		
+			   <run>		
+			     <include name="Apply_for_self"/> 
+			 <!--   <include name="Onbehalf_of_SomeOneElse"/>    -->
+			<!--   <include name="Dynamics_CRM"/>   -->
+				</run>		
+			  </groups>
+  
+     <classes>	
+     <!--   <class name="digitaltransformation.TestCases.TC01_ClassB_ValidationCheck_SubmitCase"/>   -->	
+     <!--   <class name="digitaltransformation.TestCases.TC02_ClassD_ValidationCheck_SubmitCase"/>   -->	
+ 	 <!--   <class name="digitaltransformation.TestCases.TC03_ClassE_ValidationCheck_SubmitCase"/>   -->			
+ 	 <!--   <class name="digitaltransformation.TestCases.TC04_ClassF_ValidationCheck_SubmitCase"/>   -->	
+  	 <!--	<class name="digitaltransformation.TestCases.TC05_ClassG_ValidationCheck_SubmitCase"/>   -->			
+ 	 <!--   <class name="digitaltransformation.TestCases.TC06_ClassH_ValidationCheck_SubmitCase"/>   -->	
+ 	 <!--   <class name="digitaltransformation.TestCases.TC07_ClassI_ValidationCheck_SubmitCase"/>   -->
+ 	 <!--   <class name="digitaltransformation.TestCases.TC08_ClassJ_ValidationCheck_SubmitCase"/>   -->
+ 	 <!--   <class name="digitaltransformation.TestCases.TC09_ClassK_ValidationCheck_SubmitCase"/>   -->
+ 	 <!--   <class name="digitaltransformation.TestCases.TC10_ClassL_ValidationCheck_SubmitCase"/>   -->					  
+     <!--   <class name="digitaltransformation.TestCases.TC11_ClassQ_ValidationCheck_SubmitCase"/>   -->	
+        <class name="digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase"/>   
+     <!--   <class name="digitaltransformation.TestCases.TC13_ClassS_ValidationCheck_SubmitCase"/>   -->     
+     <!--   <class name="digitaltransformation.TestCases.TC14_ClassT_ValidationCheck_SubmitCase"/>   -->    
+     <!--   <class name="digitaltransformation.TestCases.TC15_ClassV_ValidationCheck_SubmitCase"/>  -->
+
+    </classes>
+    
+  
+  </test> <!-- Test --> 
+ 
+</suite> <!-- Suite -->
+
+

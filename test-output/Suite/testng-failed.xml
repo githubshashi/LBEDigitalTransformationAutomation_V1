@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Test">
+    <groups>
+      <run>
+        <include name="Apply_for_self"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="155400" started-at="2021-01-03T15:19:13Z" finished-at="2021-01-03T15:21:48Z">
+    <groups>
+      <group name="Apply_for_self">
+        <method signature="TC12_ClassR_ValidationCheck_SubmitCase.ApplyForSelf()[pri:0, instance:digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase@34ce8af7]" name="ApplyForSelf" class="digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase"/>
+      </group> <!-- Apply_for_self -->
+    </groups>
+    <test name="Test" duration-ms="155400" started-at="2021-01-03T15:19:13Z" finished-at="2021-01-03T15:21:48Z">
+      <class name="digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase">
+        <test-method status="PASS" signature="BrowserLaunch_ReportInitiate(java.lang.String)[pri:0, instance:digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase@34ce8af7]" name="BrowserLaunch_ReportInitiate" is-config="true" duration-ms="24016" started-at="2021-01-03T20:48:49Z" finished-at="2021-01-03T20:49:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch_ReportInitiate -->
+        <test-method status="PASS" signature="CouncilWebsiteOpened()[pri:0, instance:digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase@34ce8af7]" name="CouncilWebsiteOpened" is-config="true" duration-ms="27449" started-at="2021-01-03T20:49:13Z" finished-at="2021-01-03T20:49:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CouncilWebsiteOpened -->
+        <test-method status="PASS" signature="ToStartReport()[pri:0, instance:digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase@34ce8af7]" name="ToStartReport" is-config="true" duration-ms="6" started-at="2021-01-03T20:49:40Z" finished-at="2021-01-03T20:49:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToStartReport -->
+        <test-method status="PASS" signature="ApplyForSelf()[pri:0, instance:digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase@34ce8af7]" name="ApplyForSelf" duration-ms="126576" started-at="2021-01-03T20:49:40Z" finished-at="2021-01-03T20:51:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplyForSelf -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase@34ce8af7]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-01-03T20:51:47Z" finished-at="2021-01-03T20:51:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ApplyForSelf status=SUCCESS method=TC12_ClassR_ValidationCheck_SubmitCase.ApplyForSelf()[pri:0, instance:digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase@34ce8af7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ToEndReport()[pri:0, instance:digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase@34ce8af7]" name="ToEndReport" is-config="true" duration-ms="1340" started-at="2021-01-03T20:51:47Z" finished-at="2021-01-03T20:51:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToEndReport -->
+        <test-method status="PASS" signature="BrowserClosed_ReportGenerated()[pri:0, instance:digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase@34ce8af7]" name="BrowserClosed_ReportGenerated" is-config="true" duration-ms="131" started-at="2021-01-03T20:51:49Z" finished-at="2021-01-03T20:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClosed_ReportGenerated -->
+      </class> <!-- digitaltransformation.TestCases.TC12_ClassR_ValidationCheck_SubmitCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
